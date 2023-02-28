@@ -1,0 +1,42 @@
+#img{
+    max-width: 128px;
+    max-height: 128px;
+        
+}
+
+
+.romulo{
+    height: 100px;
+}
+
+ #contacto{
+    background-color: white;
+} 
+
+.back{
+    background-image: url(Imagenes/gif2.gif);
+    
+}
+
+/*.back2{
+    
+    background-color: #CCC7C6;
+    background: linear-gradient(whitesmoke, white);
+}*/
+
+
+/*.educacion{
+    background-color: whitesmoke;
+    
+    
+}*/
+
+#js{
+    height: 500px;
+    text-align: center;
+    padding: 250px;
+}
+
+#gradiente{
+    background: linear-gradient(whitesmoke, white);
+}
